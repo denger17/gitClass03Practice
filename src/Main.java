@@ -4,5 +4,8 @@ public class Main {
         System.out.println("absdefghikl!");
         System.out.println("555555555");
         System.out.println("4444444444");
+        System.out.println("absdefghikl!");
+        System.out.println("555555555");
+        System.out.println("4444444444");
     }
 }
